@@ -1,0 +1,42 @@
+body{
+  cursor: pointer;
+}
+
+ul li{
+  margin: 1rem;
+ 
+}
+img{
+  border-radius: 2rem;
+  border-style:groove;
+  border-color: red;
+  margin: 1.5rem;
+}
+div.div{
+  color: red;
+  font-size: 35px;
+}
+button#buy{
+  background-color: #323232;
+  font-size: small;
+  display: none;
+  size: 1rem;
+  margin-right: 2rem;
+  color: antiquewhite;
+  
+}
+.row{
+  display: flex;
+  justify-content: center;
+}
+.row1{
+  display: flex;
+  justify-content:center;
+  
+}
+.row2{
+  display: flex;
+  justify-content:center;
+  margin-top: 2rem;
+
+}
